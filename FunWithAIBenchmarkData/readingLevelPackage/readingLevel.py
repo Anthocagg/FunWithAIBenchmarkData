@@ -1,6 +1,6 @@
 # readingLevel.py
-# Bill Nicholson
-# nicholdw@ucmail.uc.edu
+# Anthony Caggiano & Alex
+# caggiaaj@mail.uc.edu & 
 
 import contextlib
 import textstat

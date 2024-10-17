@@ -1,6 +1,6 @@
 # PDFUtilities.py
-# Bill Nicholson
-# nicholdw@ucmail.uc.edu
+# Anthony Caggiano & Alex
+# caggiaaj@mail.uc.edu & 
 
 import reportlab.pdfgen.canvas as canvas
 from reportlab.lib.units import inch
