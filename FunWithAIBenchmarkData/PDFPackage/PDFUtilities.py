@@ -1,6 +1,20 @@
 # PDFUtilities.py
 # Anthony Caggiano & Alex
 # caggiaaj@mail.uc.edu & 
+# Name: Anthony Caggiano & Alex Carnes
+# email:  caggiaaj@mail.uc.edu / carnesas@mail.uc.edu
+# Assignment Number: Assignment 07  
+# Due Date:   10/22/24
+# Course #/Section:   IS4010 001
+# Semester/Year:   24F
+# Brief Description of the assignment:  This assignment is focused on taking a provided python solution
+# and using any resource we can find to visualize the data in an interesting fashion.
+
+# Brief Description of what this module does: Creates a function that visualizes our data into a bar chart
+# that counts the most prevalent words in the question list.
+# Citations: Microsoft Copilot 
+# Anything else that's relevant:
+
 
 import reportlab.pdfgen.canvas as canvas
 from reportlab.lib.units import inch

@@ -1,6 +1,8 @@
-# readingLevel.py
-# Anthony Caggiano & Alex
-# caggiaaj@mail.uc.edu & 
+# Name: Anthony Caggiano & Alex Carnes
+# email:  caggiaaj@mail.uc.edu / carnesas@mail.uc.edu
+# Assignment Number: Assignment 07  
+
+#readingLevel.py
 
 import contextlib
 import textstat
